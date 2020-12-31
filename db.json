@@ -1,0 +1,293 @@
+{
+    "people": [
+      
+        {
+          "name": "Muhammad Imran Sup...",
+          "price": 300000,
+          "date": "31-08-2020",
+          "time": "9:30 AM",
+          "itemsno": "10 items",
+          "oname": "Jamshaid Saleem",
+          "upby": "",
+          "key": 1
+        },
+        {
+          "name": "My Self",
+          "price": 40000,
+          "date": "31-08-2020",
+          "time": "9:40 AM",
+          "itemsno": "15 items",
+          "oname": "Ali Raza",
+          "upby": "Usman Jamil",
+          "key": 2
+        },
+        {
+          "name": "Usman Super Store",
+          "price": 40000,
+          "date": "31-08-2020",
+          "time": "10:00 AM",
+          "itemsno": "15 items",
+          "oname": "Jamshaid Saleem ",
+          "upby": "",
+          "key": 3
+        },
+        {
+          "name": "My Self",
+          "price": 40000,
+          "date": "31-08-2020",
+          "time": "9:00 AM",
+          "itemsno": "20 items",
+          "oname": "Usman Jamil",
+          "upby": "",
+          "key": 4
+        },
+        {
+          "name": "Khurram Super Store",
+          "price": 40000,
+          "date": "31-08-2020",
+          "time": "9:30 AM",
+          "itemsno": "10 items",
+          "oname": "Jamshaid Saleem",
+          "upby": "",
+          "key": 5
+        },
+        {
+          "name": "Beta",
+          "price": 40000,
+          "date": "31-08-2020",
+          "time": "9:40 AM",
+          "itemsno": "15 items",
+          "oname": "Ali Raza",
+          "upby": "",
+          "key": 6
+        },
+        {
+          "name": "Charli",
+          "price": 20000,
+          "date": "31-08-2020",
+          "time": "10:00 AM",
+          "itemsno": "15 items",
+          "oname": "Usman Jamil ",
+          "upby": "",
+          "key": 7
+        },
+        {
+          "name": "Delta",
+          "price": 40000,
+          "date": "31-08-2020",
+          "time": "9:00 AM",
+          "itemsno": "20 items",
+          "oname": "Usman Jamil",
+          "upby": "",
+          "key": 8
+        },
+        {
+          "name": "Awais",
+          "price": 80000,
+          "date": "31-08-2020",
+          "time": "10:00 AM",
+          "itemsno": "15 items",
+          "oname": "Usman Jamil ",
+          "upby": "",
+          "key": 9
+        },
+        {
+          "name": "Usman",
+          "price": 40000,
+          "date": "31-08-2020",
+          "time": "9:00 AM",
+          "itemsno": "20 items",
+          "oname": "Usman Jamil",
+          "upby": "",
+          "key": 10
+        },
+        {
+          "name": "Ali",
+          "price": 90000,
+          "date": "31-08-2020",
+          "time": "10:00 AM",
+          "itemsno": "15 items",
+          "oname": "Usman Jamil ",
+          "upby": "",
+          "key": 11
+        },
+        {
+          "name": "Bilal",
+          "price": 40000,
+          "date": "31-08-2020",
+          "time": "9:00 AM",
+          "itemsno": "20 items",
+          "oname": "Usman Jamil",
+          "upby": "",
+          "key": 12
+        },
+        {
+          "name": "Ali",
+          "price": 1000,
+          "date": "31-08-2020",
+          "time": "10:00 AM",
+          "itemsno": "15 items",
+          "oname": "Usman Jamil ",
+          "upby": "",
+          "key": 13
+        },
+        {
+          "name": "Bilal",
+          "price": 40000,
+          "date": "31-08-2020",
+          "time": "9:00 AM",
+          "itemsno": "999 items",
+          "oname": "Usman Jamil",
+          "upby": "",
+          "key": 14
+        },
+        {
+          "name": "Ali",
+          "price": 65000,
+          "date": "31-08-2020",
+          "time": "10:00 AM",
+          "itemsno": "15 items",
+          "oname": "Usman Jamil ",
+          "upby": "",
+          "key": 15
+        },
+        {
+          "name": "Bilal",
+          "price": 40000,
+          "date": "31-08-2020",
+          "time": "9:00 AM",
+          "itemsno": "20 items",
+          "oname": "Usman Jamil",
+          "upby": "",
+          "key": 16
+        },
+        {
+          "name": "My Self",
+          "price": 1500,
+          "date": "31-08-2020",
+          "time": "9:40 AM",
+          "itemsno": "15 items",
+          "oname": "Ali Raza",
+          "upby": "",
+          "key": 17
+        },
+        {
+          "name": "Usman Super Store",
+          "price": 2500,
+          "date": "31-08-2020",
+          "time": "10:00 AM",
+          "itemsno": "15 items",
+          "oname": "Usman Jamil ",
+          "upby": "",
+          "key": 18
+        },
+        {
+          "name": "My Self",
+          "price": 3700,
+          "date": "31-08-2020",
+          "time": "9:00 AM",
+          "itemsno": "20 items",
+          "oname": "Usman Jamil",
+          "upby": "Usman Jamil",
+          "key": 19
+        },
+        {
+          "name": "Khurram Super Store",
+          "price": 990,
+          "date": "31-08-2020",
+          "time": "9:30 AM",
+          "itemsno": "10 items",
+          "oname": "Jamshaid Saleem",
+          "upby": "",
+          "key": 20
+        }
+      ]
+      ,
+      "orderdata" : [
+        {
+          "name": "Nestle Milkpack UHT 27z250ml 12% PK",
+          "unit": "12 units, 3 cartons",
+          "price": 2977,
+          "key": 1
+        },
+        {
+          "name": "Nestle Yogourt 8",
+          "unit": "4 units",
+          "price": 100,
+          "key": 2
+        },
+        {
+          "name": "Prema Milk",
+          "unit": "3 units",
+          "price": 30000,
+          "key": 3
+        },
+        {
+          "name": "Prema milk 2% grade lowfat 1602 edition ",
+          "unit": "6 units",
+          "price": 100,
+          "key": 4
+        },
+        {
+          "name": "Dairy Milk 30",
+          "unit": "10 units",
+          "price": 100,
+          "key": 5
+        },
+        {
+          "name": "Chips 100",
+          "unit": "8 units",
+          "price": 100,
+          "key": 6
+        },
+        {
+          "name": "Dairy Milk Medium",
+          "unit": "7 units",
+          "price": 100,
+          "key": 7
+        },
+        {
+          "name": "Nestle Yogourt 8",
+          "unit": "13 units",
+          "price": 100,
+          "key": 8
+        },
+        {
+          "name": "Nestle Yogourt 8",
+          "unit": "10 units",
+          "price": 100,
+          "key": 9
+        },
+        {
+          "name": "Prema Milk",
+          "unit": "3 units",
+          "price": 100,
+          "key": 10
+        },
+        {
+          "name": "Butter",
+          "unit": "1 units",
+          "price": 100,
+          "key": 11
+        },
+        {
+          "name": "Dairy Milk 30",
+          "unit": "12 units",
+          "price": 100,
+          "key": 12
+        },
+        {
+          "name": "Chips 100",
+          "unit": "13 units",
+          "price": 100,
+          "key": 13
+        },
+        {
+          "name": "Dairy Milk Medium",
+          "unit": "14 units",
+          "price": 100,
+          "key": 14
+        }
+      ]
+    
+  }
